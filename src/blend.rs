@@ -7,8 +7,9 @@
 
 // from local crate
 use error::RasterResult;
-use Image;
+
 use Color;
+use Image;
 
 /// Enumeration for blending modes.
 #[derive(Debug)]
